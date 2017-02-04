@@ -1,3 +1,4 @@
 rootProject.name = 'PixseeServer'
 include 'REST'
-
+include 'Chat'
+include 'Website'

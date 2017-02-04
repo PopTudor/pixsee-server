@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chat/Chat.iml" filepath="$PROJECT_DIR$/.idea/modules/Chat/Chat.iml" group="Chat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PixseeServer.iml" filepath="$PROJECT_DIR$/.idea/modules/PixseeServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PixseeServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PixseeServer_main.iml" group="PixseeServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PixseeServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PixseeServer_test.iml" group="PixseeServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/REST/REST.iml" filepath="$PROJECT_DIR$/.idea/modules/REST/REST.iml" group="REST" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/REST/REST_main.iml" filepath="$PROJECT_DIR$/.idea/modules/REST/REST_main.iml" group="REST" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/REST/REST_test.iml" filepath="$PROJECT_DIR$/.idea/modules/REST/REST_test.iml" group="REST" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Website/Website.iml" filepath="$PROJECT_DIR$/.idea/modules/Website/Website.iml" group="Website" />
+    </modules>
+  </component>
+</project>
